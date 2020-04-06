@@ -4,7 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/index.js"
+    "seedJared": "node Services/FEC-Service-Jared/database-mongodb/seed.js",
+    "seedStacey": "node Services/FEC-Service-Stacey/database-final/seed.js",
+    "seedNick": "node Services/FEC-Service-Nick/database-mongoose/seed.js",
+    "startJared": "nodemon Services/FEC-Service-Jared/server/index.js",
+    "startStacey": "nodemon Services/FEC-Service-Stacey/server/index.js",
+    "startNick": "nodemon Services/FEC-Service-Nick/server/index.js",
+    "startProxy": "nodemon server/index.js",
+    "start": "run-p seedJared seedStacey seedNick startJared startStacey startNick startProxy"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +21,7 @@
     "http-proxy": "^1.18.0",
     "nodemon": "^2.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
 }
