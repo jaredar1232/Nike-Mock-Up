@@ -10,7 +10,6 @@ https://github.com/jaredar1232/FEC-Service-Nick
 
 https://github.com/jaredar1232/FEC-Service-Stacey
 
-https://github.com/jaredar1232/Nike-Mock-Up
 
 ## Table of Contents
 
