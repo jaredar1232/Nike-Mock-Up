@@ -1,0 +1,34 @@
+# Project Nyke
+
+> Nike Product Page Mockup This Repo contains a Nike Product Mockup Website. 
+
+
+## Related Projects
+
+
+## Table of Contents
+
+1. [Usage](#Usage)
+1. [Requirements](#requirements)
+1. [Development](#development)
+
+## Usage
+
+> The purpose of project was to practice front end design by emulating a well known website. 
+
+## Requirements
+
+- MongoDB
+
+## Development
+
+### Installing Dependencies
+
+From within the root directory:
+
+To run the application: 
+
+clone down the repo 
+run "npm install" 
+run "npm start" (this is fully automated to seed all 3 databases and start all 4 servers)
+NOTE: make sure to have mongoDB installed on the local machine.
