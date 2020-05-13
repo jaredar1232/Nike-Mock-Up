@@ -35,8 +35,10 @@ To run the application:
 
 1. clone down the repo 
 
-2. run "npm install" 
+2. clone down the submodules by running "git submodule update --init --recursive" from the root directory
 
-3. run "npm start" (this is fully automated to seed all 3 databases and start all 4 servers)
+3. run "npm install" 
+
+4. run "npm start" (this is fully automated to seed all 3 databases and start all 4 servers)
 
 NOTE: make sure to have mongoDB installed on the local machine.
