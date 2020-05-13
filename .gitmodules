@@ -1,3 +1,12 @@
 [submodule "Services/Jareds-Service"]
 	path = Services/Jareds-Service
 	url = https://github.com/jaredar1232/Jareds-Service.git
+[submodule "Services/FEC-Service-Jared"]
+	path = Services/FEC-Service-Jared
+	url = https://github.com/jaredar1232/FEC-Service-Jared.git
+[submodule "Services/FEC-Service-Nick"]
+	path = Services/FEC-Service-Nick
+	url = https://github.com/jaredar1232/FEC-Service-Nick.git
+[submodule "Services/FEC-Service-Stacey"]
+	path = Services/FEC-Service-Stacey
+	url = https://github.com/jaredar1232/FEC-Service-Stacey.git
