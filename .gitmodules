@@ -1,0 +1,3 @@
+[submodule "Services/Jareds-Service"]
+	path = Services/Jareds-Service
+	url = https://github.com/jaredar1232/Jareds-Service.git
