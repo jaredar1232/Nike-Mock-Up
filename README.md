@@ -36,7 +36,7 @@ To run the application:
 
 2. clone down the submodules by running "git submodule update --init --recursive" from the root directory
 
-3. cd into each of the 3 services and run "npm install" from their roots. Ie, cd into "FEC-Service-Jared" and run "npm install", repeat for the other two services
+3. cd into each of the 3 services and run "npm install" from their roots. Ie, cd into "FEC-Service-Jared" and run "npm install", repeat for the other two services (Nick/Stacey)
 
 4. cd back out to the proxy root "Nike-Mock-Up" and run "npm install"
 
