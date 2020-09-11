@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
